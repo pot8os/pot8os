@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pot8os&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pot8os&hide=HTML,JavaScript&langs_count=7&theme=tokyonight" />
+</p>
