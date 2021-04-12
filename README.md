@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pot8os&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/pot8os/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pot8os&layout=compact&hide=HTML,JavaScript&langs_count=7&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pot8os&hide=HTML,JavaScript&langs_count=7&theme=tokyonight" />
 </a>
